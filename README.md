@@ -1,6 +1,6 @@
-ARGUS — Flash Flood Risk Monitoring System
+# ARGUS — Flash Flood Risk Monitoring System
 
-1. Project Summary
+## 1. Project Summary
 
 ARGUS is a web-based disaster risk management application designed to identify potential flash flood risks in Bagh District, Azad Jammu and Kashmir, Pakistan.
 
@@ -12,7 +12,7 @@ The application aims to provide localized flood risk information to disaster man
 
 Project focus: Forecast-based flash flood risk identification for known ephemeral channels in Bagh District.
 
-2. Problem Statement
+## 2. Problem Statement
 
 Flash floods can occur shortly after heavy rainfall, particularly in mountainous regions. Although weather forecasts are available, they are not always connected to specific channels that may become dangerous during rainfall.
 
@@ -20,7 +20,7 @@ Since ephemeral streams are rarely monitored and may be absent from conventional
 
 ARGUS aims to bridge this gap by combining rainfall forecasts with mapped flood-prone channels to identify potential hazards before or during periods of heavy rainfall.
 
-3. Project Objectives
+## 3. Project Objectives
 
 Develop an interactive map of Bagh District displaying known flood-prone channels.
 
@@ -34,7 +34,7 @@ Flag potentially hazardous channels on the map.
 
 Provide localized hazard information to support disaster management decisions.
 
-4. Key Features
+## 4. Key Features
 
 Interactive hazard map: Visualizes the selected region using Leaflet.js and OpenStreetMap.
 
@@ -52,7 +52,7 @@ Data storage: Uses MySQL to store channel information, forecast records, and ale
 
 Documentation: Records the data sources and methodology used to identify flood-prone channels.
 
-## Technology Stack
+## 5. Technology Stack
 
 | Technology / Tool | Purpose |
 |---|---|
@@ -72,7 +72,7 @@ Documentation: Records the data sources and methodology used to identify flood-p
 | GitHub | Hosts the project repository and supports team collaboration |
 | Visual Studio Code | Provides the development environment |
 
-## Contributors
+## 6. Contributors
 
 | No. | Name | Registration Number | GitHub Username |
 |---|---|---|---|
